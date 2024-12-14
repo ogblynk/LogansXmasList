@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70pt;
+    -webkit-text-stroke: 20pt;
+    -webkit-text-stroke-color:white;
+    -webkit-text-stroke-width: 1pt;
+}
+#titlebullshit {
+    background-image: url(evil\ homer.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 0px 30%;
+
+}
+body {
+    width: 100%;
+    background-image: url(allisong.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0px;
+}
+a:hover {
+    opacity: 50%;
+    cursor: pointer;
+}
+#pokemon {
+    size: 60px;
+    float: right;
+}
+table {
+    width: 100%;
+}
+
+#shit {
+    width: 300px;
+    height: 300px;
+}
+
+#right {
+    float: right;
+}
+
+p {
+    background-image: url(https://media.tenor.com/5nSKlBlwdkIAAAAj/cat.gif);
+    background-position: 0px -25px;
+    text-align: center;
+    color: black;
+    -webkit-text-stroke:20pt;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-size: 50pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
